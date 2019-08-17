@@ -1,7 +1,7 @@
 ---
 new_page_extension: md
 auto_deploy: false
-admin_path: static/admin
+admin_path: https://square-oak-87385.netlify.com/admin
 webhook_url: https://api.stackbit.com/project/5d587385f2f60d00114def1a/webhook/forestry
 sections:
 - type: document
