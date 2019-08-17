@@ -3,7 +3,7 @@
   "palette": "green",
   "header": {
     "title": "Azimuth",
-    "logo_img": "images/logo.png",
+    "logo_img": "/images/Blue Moon Lacy Logo.jpg",
     "has_nav": true,
     "menu": {
       "actions": [
