@@ -87,13 +87,6 @@ sections:
   actions:
   - label: Get Started
     url: "/signup"
-- type: postsblock
-  template: postsblock
-  section_id: recent-posts
-  title: Latest Posts
-  component: PostsBlock
-  bg: gray
-  subtitle: ''
 menus:
   main:
     title: Home
