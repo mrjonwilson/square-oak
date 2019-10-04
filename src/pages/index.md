@@ -21,6 +21,13 @@ sections:
     quis lorem malesuada luctus.
   bg: gray
   featureslist:
+  - title: This is a test feature
+    content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. '
+    image: "/images/6_thumb.jpg"
+    actions:
+    - label: Click here
+      url: "/#"
   - title: The Best Feature of Your Services
     content: Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed aliquet
       luctus, lorem risus volutpat dolor, nec dignissim diam neque consequat ex.
