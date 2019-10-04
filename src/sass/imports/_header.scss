@@ -91,7 +91,7 @@
   display: none;
 }
 
-@supports (position: sticky) or (position: -webkit-sticky) {
+/* @supports (position: sticky) or (position: -webkit-sticky) {
   @media only screen and (min-width: 801px) {
     .site-header {
       background: #fff;
@@ -106,7 +106,7 @@
     }
   }
 }
-
+*/
 @media only screen and (max-width: 800px) {
   .site {
     overflow: hidden;
