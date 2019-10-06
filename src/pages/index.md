@@ -78,6 +78,32 @@ sections:
     avatar: images/review3.jpg
     content: Integer consectetur purus neque, ac porttitor enim convallis vitae. Interdum
       et malesuada fames ac ante ipsum primis in faucibus.
+- template: pricingblock
+  component: PricingBlock
+  bg: gray
+  type: pricingblock
+  section_id: care-plans
+  title: Website Care Plans
+  subtitle: We care for your website!
+  pricingplans:
+  - title: Bronze
+    price: "35"
+    details: |-
+      * Peace of mind that your site is secure with malware protection
+      * Software Updates (WordPress, plugins, themes, etc.)
+      * Nightly Backups
+    highlight: false
+    actions: []
+  - title: ''
+    price: ''
+    details: ''
+    highlight: false
+    actions: []
+  - title: ''
+    price: ''
+    details: ''
+    highlight: false
+    actions: []
 - type: ctablock
   template: ctablock
   section_id: call-to-action
