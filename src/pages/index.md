@@ -100,9 +100,14 @@ sections:
       month "
     highlight: false
     actions: []
-  - title: ''
-    price: ''
-    details: ''
+  - title: Gold
+    price: "$249/month"
+    details: |-
+      Everything in Bronze and Silver plans, plus
+
+      * Unlimited* small tasks to assist you with managing the content on your website.
+
+      Our Gold plan is perfect if you are adding features or functionality to your website on a regular basis.
     highlight: false
     actions: []
 - type: ctablock
