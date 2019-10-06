@@ -94,9 +94,10 @@ sections:
       * Nightly Backups
     highlight: false
     actions: []
-  - title: ''
-    price: ''
-    details: ''
+  - title: Silver
+    price: "$149/month"
+    details: "Everything in Bronze plan plus\n\n* One scheduled strategy session per
+      month "
     highlight: false
     actions: []
   - title: ''
