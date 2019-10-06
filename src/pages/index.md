@@ -110,6 +110,14 @@ sections:
       Our Gold plan is perfect if you are adding features or functionality to your website on a regular basis.
     highlight: false
     actions: []
+  - title: Platinum
+    details: |-
+      Our Platinum plan is designed for those who are serious about getting a return on their investment. It includes all of the benefits of the Bronze, Silver, and Gold plans, plus
+
+      * one monthly strategy consulting session to help you stay clear about your objectives and remain accountable.
+    highlight: false
+    actions: []
+    price: "$549"
 - type: ctablock
   template: ctablock
   section_id: call-to-action
