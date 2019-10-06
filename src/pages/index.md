@@ -87,7 +87,7 @@ sections:
   subtitle: We care for your website!
   pricingplans:
   - title: Bronze
-    price: "35"
+    price: "$35/month"
     details: |-
       * Peace of mind that your site is secure with malware protection
       * Software Updates (WordPress, plugins, themes, etc.)
