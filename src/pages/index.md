@@ -49,6 +49,15 @@ sections:
     actions:
     - label: Click here
       url: "/#"
+- type: ctablock
+  template: ctablock
+  section_id: call-to-action
+  title: This Is Call To Action Block!
+  component: CtaBlock
+  subtitle: This is an optional description for the call to action block.
+  actions:
+  - label: Get Started
+    url: "/signup"
 - type: reviewsblock
   template: reviewsblock
   section_id: reviews
@@ -78,15 +87,6 @@ sections:
     avatar: images/review3.jpg
     content: Integer consectetur purus neque, ac porttitor enim convallis vitae. Interdum
       et malesuada fames ac ante ipsum primis in faucibus.
-- type: ctablock
-  template: ctablock
-  section_id: call-to-action
-  title: This Is Call To Action Block!
-  component: CtaBlock
-  subtitle: This is an optional description for the call to action block.
-  actions:
-  - label: Get Started
-    url: "/signup"
 menus:
   main:
     title: Home
