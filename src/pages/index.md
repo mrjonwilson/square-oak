@@ -78,46 +78,6 @@ sections:
     avatar: images/review3.jpg
     content: Integer consectetur purus neque, ac porttitor enim convallis vitae. Interdum
       et malesuada fames ac ante ipsum primis in faucibus.
-- template: pricingblock
-  component: PricingBlock
-  bg: ''
-  type: pricingblock
-  section_id: care-plans
-  title: Website Care Plans
-  subtitle: We care for your website!
-  pricingplans:
-  - title: Bronze
-    price: "$35/month"
-    details: |-
-      * Peace of mind that your site is secure with malware protection
-      * Software Updates (WordPress, plugins, themes, etc.)
-      * Nightly Backups
-    highlight: false
-    actions: []
-  - title: Silver
-    price: "$149/month"
-    details: "Everything in Bronze plan plus\n\n* One scheduled strategy session per
-      month "
-    highlight: false
-    actions: []
-  - title: Gold
-    price: "$249/month"
-    details: |-
-      Everything in Bronze and Silver plans, plus
-
-      * Unlimited* small tasks to assist you with managing the content on your website.
-
-      Our Gold plan is perfect if you are adding features or functionality to your website on a regular basis.
-    highlight: false
-    actions: []
-  - title: Platinum
-    details: |-
-      Our Platinum plan is designed for those who are serious about getting a return on their investment. It includes all of the benefits of the Bronze, Silver, and Gold plans, plus
-
-      * one monthly strategy consulting session to help you stay clear about your objectives and remain accountable.
-    highlight: false
-    actions: []
-    price: "$549"
 - type: ctablock
   template: ctablock
   section_id: call-to-action
