@@ -80,7 +80,7 @@ sections:
       et malesuada fames ac ante ipsum primis in faucibus.
 - template: pricingblock
   component: PricingBlock
-  bg: gray
+  bg: ''
   type: pricingblock
   section_id: care-plans
   title: Website Care Plans
