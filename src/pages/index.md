@@ -4,10 +4,9 @@ sections:
 - type: heroblock
   template: heroblock
   section_id: hero
-  title: This Is A Big Hero Headline
+  title: Standing Pine Media
   component: HeroBlock
-  content: 'Azimuth is the perfect theme for developers, designers and entrepreneurs
-    who need a sleek, modern SaaS site. '
+  content: Helping you break through the noise of a crowded online marketplace.
   image: "/images/intro.jpg"
   actions:
   - label: Learn More
